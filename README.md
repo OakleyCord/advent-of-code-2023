@@ -7,3 +7,5 @@ also this is the first time i've ever used C i hope i don't miss any days like i
 
 # Repos
 [Personal Gitlab](https://git.oak.li/oakley/advent-of-code-2023)
+
+[Github](https://github.com/OakleyCord/advent-of-code-2023)
