@@ -59,6 +59,7 @@ void challenge_one(char file_path[]) {
 
                 buffer[1] = nums[i].num;
                 memmove(str, str+1, strlen(str));
+                break;
                 //printf("%s\n", str);
             }
         }
@@ -91,7 +92,7 @@ void challenge_one(char file_path[]) {
 int main() {
     printf("Advent Of Code 2023\n");
 
-    challenge_one("input");
+    challenge_one("inputs/input_1");
 
     return 0;
 }
